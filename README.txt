@@ -1,3 +1,4 @@
+https://archive.ics.uci.edu/ml/datasets/Bar+Crawl%3A+Detecting+Heavy+Drinking
 1. Database Description:
     (a) Title
         Bar Crawl: Detecting Heavy Drinking
